@@ -13,6 +13,9 @@ O objetivo é criar um sistema que acenda três LEDs simultaneamente ao pression
 - **Botão**: Conectado à GPIO 5
 - **Resistores**: 330 Ω para os LEDs
 
+- **Link Wokwi:**
+  <https://wokwi.com/projects/421705059146424321>
+
 🎯 **Funcionalidades do Projeto**
 
 🔹 **Acionamento dos LEDs**
